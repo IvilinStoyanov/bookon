@@ -1,0 +1,9 @@
+{
+  "name": "bookon",
+  "dependencies": {
+    "foundation-sites": "6.3.1",
+    "jQuery": "~2.2",
+    "motion-ui": "^2.0.3",
+    "slick-carousel": "^1.8.1"
+  }
+}
